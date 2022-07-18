@@ -1,0 +1,21 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(25deg, #d64c7f, #ee4758 50%);
+    color: #FFFF;
+    display: flex-start;
+    text-align: center;
+    object-fit: cover;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
